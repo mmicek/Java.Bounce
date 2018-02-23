@@ -25,7 +25,7 @@ public class Screen extends JFrame {
     private WorldMap map;
     private Image doubleBuffer;
     private Position position = new Position(0,0);
-    private Image background = new ImageIcon("background.jpg").getImage();
+    private Image background = new ImageIcon("Pictures/background.jpg").getImage();
 
     public Screen() throws InvocationTargetException, InterruptedException {
         setUndecorated(true);
