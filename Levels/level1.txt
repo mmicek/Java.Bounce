@@ -1,0 +1,18 @@
+140
+370
+1
+0
+6900
+122
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx   xxxxxx          xxx           xx       xxx                  xxx      xx      xx               xx         xxx                                                                                              
+xx   xxxxxx          xxx           x        xx                    xx      xx      xx               xx         xxx                                                                                                                                                                             
+xx   xxxxxx   xx     xxx           o        xx          c         xx  xx  xx  xx  xx  xx           xx         xxx                                                                                                                                                                                      
+xx   xxxxxx   xx     xxx  xxxx  xxxx  xxxx  xx                    xx  xx  xx  xx  xx  xx       xx  xx  xx     xxx                                                                                                                                                      
+xx       x    xx           xx     xx    xx                            xx  x   xx   x  xx    xxexx  c   xxexx  xxx                                                                                                                                       
+xx       o    xx e         xx  e     e  xx         e  e   e   e       xx  o   xx   o  xx    xxxxx      xxxxx  +xx                                                                                                                                            
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
